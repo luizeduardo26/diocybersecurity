@@ -131,3 +131,13 @@ Validação de Longo Prazo: "Resuma os estudos de Jeremy Siegel sobre por que, e
 Filtro de Notícias: "Como diferenciar um 'ruído' de mercado (notícia sensacionalista sobre taxação ou política) de uma mudança real nos fundamentos de uma empresa
 ?"
 Dica de Uso: Você pode copiar qualquer um desses prompts e substituir os termos entre colchetes (como [TICKER] ou [EMPRESA]) para obter uma análise atualizada sempre que desejar revisar sua estratégia.
+
+## Mapa Mental
+
+<img width="3128" height="4537" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/96c6eae3-7e19-4f0a-8b9b-27e8ac252783" />
+
+## Apresentação de slides 
+(https://notebooklm.google.com/notebook/82a208c6-cd62-4932-a8da-172298c2dc87?artifactId=631e8ff7-7eef-4923-a66f-462c54b9baeb) 
+
+## Investindo em Ações: Guia Conservador
+(https://notebooklm.google.com/notebook/82a208c6-cd62-4932-a8da-172298c2dc87?artifactId=4ccbdc61-9a8d-4b32-8bce-8f37a6f3c935)
