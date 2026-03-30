@@ -1,48 +1,47 @@
-# diocybersecurity
-Repositório sobre o NotebookLM do GOOGLE
-Objetivo: Comporte-se como um segundo cérebro falando basicamente de como começar a investir em ações para um perfil mais conservador
+# DIOCYBERSECURITY
+## Repositório sobre o NotebookLM do GOOGLE
+## Objetivo: Comporte-se como um segundo cérebro falando basicamente de como começar a investir em ações para um perfil mais conservador
 Ser um apoio para investir em açoes de forma conservadora
-Curadoria de Fontes
-Fontes de vídeo: 
-https://www.youtube.com/watch?v=8K_eJ_8vqHM&t=125s&pp=ygUwaW52ZXN0aW1lbnRvIG5hIGJvbHNhIGRlIHZhbG9yZXMgcGFyYSBpbmljaWFudGVz 
-https://www.youtube.com/playlist?list=PLQTLvm6GZQ354qYDqc8W8ve2H7Jl16yYt 
-https://www.youtube.com/watch?v=khToouRsNts&t=254s&pp=ygUwaW52ZXN0aW1lbnRvIG5hIGJvbHNhIGRlIHZhbG9yZXMgcGFyYSBpbmljaWFudGVz 
-https://www.youtube.com/watch?v=zE3MhwFUpnA&pp=ygUwaW52ZXN0aW1lbnRvIG5hIGJvbHNhIGRlIHZhbG9yZXMgcGFyYSBpbmljaWFudGVz0gcJCdsKAYcqIYzv
-https://www.youtube.com/watch?v=Q6x0xnI0uCg&pp=ygUwaW52ZXN0aW1lbnRvIG5hIGJvbHNhIGRlIHZhbG9yZXMgcGFyYSBpbmljaWFudGVz https://www.youtube.com/shorts/2oYteY1trWU
-https://www.youtube.com/watch?v=-3gtPazi79U&pp=ygUwaW52ZXN0aW1lbnRvIG5hIGJvbHNhIGRlIHZhbG9yZXMgcGFyYSBpbmljaWFudGVz
-https://www.youtube.com/watch?v=GiRXWNzjRco&pp=ygUwaW52ZXN0aW1lbnRvIG5hIGJvbHNhIGRlIHZhbG9yZXMgcGFyYSBpbmljaWFudGVz
-https://www.youtube.com/watch?v=W_kfS2boa_Y&pp=ygUwaW52ZXN0aW1lbnRvIG5hIGJvbHNhIGRlIHZhbG9yZXMgcGFyYSBpbmljaWFudGVz
-Fontes de texto:
-https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/bolsa-de-valores/
-https://www.gov.br/investidor/pt-br/investir/como-investir/como-funciona-a-bolsa
-https://www.infomoney.com.br/guias/como-investir-em-acoes/
-https://master.clear.com.br/bolsa-de-valores-para-iniciantes/
-https://www.c6bank.com.br/blog/como-investir-na-bolsa-de-valores
-https://content.btgpactual.com/blog/renda-variavel/como-investir-na-bolsa-de-valores-10-passos-para-comecar-agora 
-https://edu.b3.com.br/educacao-financeira/cursos 
-https://edu.b3.com.br/w/aprenda-a-investir-em-acoes
-Resumo feito pelo notebookLM do Google com todas as fontes acima
+## Curadoria de Fontes
+### Fontes de vídeo: 
+1. https://www.youtube.com/watch?v=8K_eJ_8vqHM&t=125s&pp=ygUwaW52ZXN0aW1lbnRvIG5hIGJvbHNhIGRlIHZhbG9yZXMgcGFyYSBpbmljaWFudGVz 
+2. https://www.youtube.com/playlist?list=PLQTLvm6GZQ354qYDqc8W8ve2H7Jl16yYt 
+3. https://www.youtube.com/watch?v=khToouRsNts&t=254s&pp=ygUwaW52ZXN0aW1lbnRvIG5hIGJvbHNhIGRlIHZhbG9yZXMgcGFyYSBpbmljaWFudGVz 
+4. https://www.youtube.com/watch?v=zE3MhwFUpnA&pp=ygUwaW52ZXN0aW1lbnRvIG5hIGJvbHNhIGRlIHZhbG9yZXMgcGFyYSBpbmljaWFudGVz0gcJCdsKAYcqIYzv
+5. https://www.youtube.com/watch?v=Q6x0xnI0uCg&pp=ygUwaW52ZXN0aW1lbnRvIG5hIGJvbHNhIGRlIHZhbG9yZXMgcGFyYSBpbmljaWFudGVz https://www.youtube.com/shorts/2oYteY1trWU
+6. https://www.youtube.com/watch?v=-3gtPazi79U&pp=ygUwaW52ZXN0aW1lbnRvIG5hIGJvbHNhIGRlIHZhbG9yZXMgcGFyYSBpbmljaWFudGVz
+7. https://www.youtube.com/watch?v=GiRXWNzjRco&pp=ygUwaW52ZXN0aW1lbnRvIG5hIGJvbHNhIGRlIHZhbG9yZXMgcGFyYSBpbmljaWFudGVz
+8. https://www.youtube.com/watch?v=W_kfS2boa_Y&pp=ygUwaW52ZXN0aW1lbnRvIG5hIGJvbHNhIGRlIHZhbG9yZXMgcGFyYSBpbmljaWFudGVz
+### Fontes de texto:
+1. https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/bolsa-de-valores/
+2. https://www.gov.br/investidor/pt-br/investir/como-investir/como-funciona-a-bolsa
+3. https://www.infomoney.com.br/guias/como-investir-em-acoes/
+4. https://master.clear.com.br/bolsa-de-valores-para-iniciantes/
+5. https://www.c6bank.com.br/blog/como-investir-na-bolsa-de-valores
+6. https://content.btgpactual.com/blog/renda-variavel/como-investir-na-bolsa-de-valores-10-passos-para-comecar-agora 
+7. https://edu.b3.com.br/educacao-financeira/cursos 
+8. https://edu.b3.com.br/w/aprenda-a-investir-em-acoes
+## Resumo feito pelo notebookLM do Google com todas as fontes acima
 O Método Barsi: Como Investir em Ações com Segurança
-18 fontes
 As fontes apresentam um guia completo sobre investimentos, focando especialmente no funcionamento da bolsa de valores e em estratégias para iniciantes. Os textos detalham a diferença entre renda fixa, voltada para segurança, e renda variável, que inclui ativos como ações e criptomoedas. É explicado que ser acionista significa tornar-se sócio de grandes empresas, obtendo lucros através da valorização dos papéis ou do recebimento de dividendos. O conteúdo destaca o Método Barsi, que prioriza a disciplina e o foco em empresas sólidas e setores perenes para garantir renda passiva no longo prazo. Além disso, os autores oferecem orientações práticas sobre como utilizar corretoras, evitar taxas desnecessárias e manter o controle emocional durante as oscilações do mercado. Por fim, reforça-se que o sucesso financeiro exige estudo contínuo e a superação do medo de investir em ativos variáveis.
-O notebookLM me ofereceu algumas perguntas e escolhi Quais são os primeiros passos práticos para investir em ações? segue a resposta:
+## O notebookLM me ofereceu algumas perguntas e escolhi Quais são os primeiros passos práticos para investir em ações? segue a resposta:
 Para investir em ações de forma prática, você deve seguir um passo a passo que envolve desde a preparação emocional até a execução da compra no ambiente digital. Os primeiros passos essenciais, conforme as fontes, são:
-Abrir conta em uma corretora de valores: A corretora é o intermediário necessário para acessar a bolsa de valores (B3)
-É recomendável escolher uma que ofereça isenção de taxa de corretagem, para que você não perca dinheiro cada vez que comprar ou vender uma ação
-Exemplos citados incluem o Banco Inter, Nubank, Rico, Clear e BTG Pactual (através de assessorias específicas)
-Transferir o dinheiro: Após abrir a conta, você deve enviar o montante que deseja investir do seu banco para a conta da corretora, geralmente via Pix ou TED
-Definir sua estratégia e escolher as ações: Antes de comprar, identifique seu perfil de investidor (conservador, moderado ou arrojado)
-As fontes sugerem focar em empresas perenes (setores de energia, saneamento, bancos) que possuem lucros recorrentes e pagam dividendos
-Você pode usar sites de análise para verificar indicadores como o P/L (Preço/Lucro) e o Dividend Yield (retorno em dividendos)
-Acessar o Home Broker ou App e identificar o "Ticker": Cada empresa é identificada por um código de quatro letras e um número, chamado de ticker (ex: PETR4 para Petrobras, BBAS3 para Banco do Brasil)
-Se você tem pouco dinheiro, deve usar o mercado fracionário, adicionando a letra "F" ao final do código (ex: BBAS3F), o que permite comprar de 1 a 99 ações em vez de lotes fechados de 100
-Enviar a ordem de compra: No aplicativo ou home broker, digite o ticker, a quantidade de ações desejada e o preço. Após confirmar, a ordem é enviada para a bolsa
-O dinheiro costuma sair da conta e a ação ser efetivamente liquidada em sua custódia após dois dias úteis (prazo D+2)
-Focar no longo prazo e reinvestir: O segredo dos grandes investidores, como Luiz Barsi e Warren Buffett, é a constância e a paciência
-A recomendação é investir mensalmente e reinvestir os dividendos recebidos para comprar mais ações, aumentando seu patrimônio ao longo do tempo
-As fontes enfatizam que você não deve investir em ações o dinheiro que precisará no curto prazo, pois a renda variável oscila e exige "estômago" para aguentar quedas momentâneas do mercado
-Pergunta feita diretamente para o notebookLM
-Como ser um investidor conservador e ter boa rentabilidade
+- Abrir conta em uma corretora de valores: A corretora é o intermediário necessário para acessar a bolsa de valores (B3)
+- É recomendável escolher uma que ofereça isenção de taxa de corretagem, para que você não perca dinheiro cada vez que comprar ou vender uma ação
+- Exemplos citados incluem o Banco Inter, Nubank, Rico, Clear e BTG Pactual (através de assessorias específicas)
+- Transferir o dinheiro: Após abrir a conta, você deve enviar o montante que deseja investir do seu banco para a conta da corretora, geralmente via Pix ou TED
+- Definir sua estratégia e escolher as ações: Antes de comprar, identifique seu perfil de investidor (conservador, moderado ou arrojado)
+- As fontes sugerem focar em empresas perenes (setores de energia, saneamento, bancos) que possuem lucros recorrentes e pagam dividendos
+- Você pode usar sites de análise para verificar indicadores como o P/L (Preço/Lucro) e o Dividend Yield (retorno em dividendos)
+- Acessar o Home Broker ou App e identificar o "Ticker": Cada empresa é identificada por um código de quatro letras e um número, chamado de ticker (ex: PETR4 para Petrobras, BBAS3 para Banco do Brasil)
+- Se você tem pouco dinheiro, deve usar o mercado fracionário, adicionando a letra "F" ao final do código (ex: BBAS3F), o que permite comprar de 1 a 99 ações em vez de lotes fechados de 100
+- Enviar a ordem de compra: No aplicativo ou home broker, digite o ticker, a quantidade de ações desejada e o preço. Após confirmar, a ordem é enviada para a bolsa
+- O dinheiro costuma sair da conta e a ação ser efetivamente liquidada em sua custódia após dois dias úteis (prazo D+2)
+- Focar no longo prazo e reinvestir: O segredo dos grandes investidores, como Luiz Barsi e Warren Buffett, é a constância e a paciência
+- A recomendação é investir mensalmente e reinvestir os dividendos recebidos para comprar mais ações, aumentando seu patrimônio ao longo do tempo
+- As fontes enfatizam que você não deve investir em ações o dinheiro que precisará no curto prazo, pois a renda variável oscila e exige "estômago" para aguentar quedas momentâneas do mercado
+## Pergunta feita diretamente para o notebookLM
+Como ser um investidor conservador e ter boa rentabilidade?
 Para ser um investidor conservador com boa rentabilidade, a chave está em mudar o foco da valorização das cotações para a sustentabilidade do fluxo de caixa e a geração de renda passiva
 . No mercado brasileiro, isso significa priorizar ativos que protejam o patrimônio contra a inflação e ofereçam retornos reais consistentes
 Aqui estão os pilares para equilibrar segurança e retorno:
@@ -69,58 +68,30 @@ Uma sugestão de alocação conservadora para 2026 inclui 50% em ETFs de dividen
 5. Fugir de Ativos Especulativos
 Para manter a rentabilidade com segurança, o conservador deve evitar Day Trade, criptomoedas de alta volatilidade e empresas em dificuldades financeiras (como o setor de varejo e aviação, que possuem margens apertadas e alto risco de quebra)
 Em resumo, a boa rentabilidade para o conservador vem de comprar boas empresas a preços justos e ter a disciplina de não vender durante as oscilações de curto prazo, focando sempre no aumento da renda mensal recebida através dos proventos
+
+
 📘 Glossário do Investidor Iniciante
-Termo
-Significado Simples
-Renda Fixa
-Investimentos onde o rendimento é previsível e mais seguro, como um empréstimo que você faz ao banco ou ao governo
-.
-Renda Variável
-Investimentos onde o ganho não é garantido e o preço oscila (pode subir ou cair muito), como ações e criptomoedas
-.
-Ação
-A menor parte de uma empresa; ao comprar uma, você se torna sócio ("dono") de um pedacinho do negócio
-.
-Bolsa de Valores (B3)
-O "mercado" organizado onde as pessoas se encontram (digitalmente) para comprar e vender ações
-.
-Dividendos
-Parte do lucro da empresa que é dividida e depositada na conta dos acionistas
-.
-Ticker
-O código de letras e números que identifica a ação na bolsa (ex: PETR4 para Petrobras)
-.
-Liquidez
-A facilidade e rapidez com que você consegue transformar seu investimento de volta em dinheiro na conta
-.
-Corretora
-A instituição financeira que faz a ponte entre você e a Bolsa de Valores para realizar as compras
-.
-Home Broker
-A plataforma digital (site ou app) usada para enviar ordens de compra e venda de ações
-.
-IPO
-Quando uma empresa vende seus "pedacinhos" pela primeira vez na Bolsa para arrecadar dinheiro e crescer
-.
-ETF
-Um "pacote" de várias ações que segue um índice específico; permite diversificar com pouco dinheiro
-.
-Setores Perenes
-Áreas essenciais da economia que costumam lucrar mesmo em crises, como energia, bancos e saneamento
-.
-Diversificação
-Estratégia de "não colocar todos os ovos na mesma cesta", espalhando o dinheiro em diferentes ativos para reduzir riscos
-.
-FGC
-Fundo que garante a devolução de até R$ 250 mil em certos investimentos de renda fixa se o banco quebrar
-.
-Buy and Hold
-Estratégia de comprar boas ações e segurá-las por muitos anos, focando no longo prazo e dividendos
-.
-Mercado Fracionário
-Permite comprar de 1 a 99 ações (usando a letra "F" no código), ideal para quem tem pouco dinheiro
-.
-Para apoiar suas futuras revisões sobre investimentos em ações, com base nos ensinamentos de Luiz Barsi, Primo Pobre, Breno Perrucho e nas análises estruturais dos ativos brasileiros, aqui está um conjunto de prompts reutilizáveis organizados por categoria.
+|Termo        |Significado Simples |
+|-------------|------------------|
+|Renda Fixa   | Investimentos onde o rendimento é previsível e mais seguro, como um empréstimo que você faz ao banco ou ao governo |
+|Renda Variável|Investimentos onde o ganho não é garantido e o preço oscila (pode subir ou cair muito), como ações e criptomoedas |
+|Ação          | A menor parte de uma empresa; ao comprar uma, você se torna sócio ("dono") de um pedacinho do negócio |
+|Bolsa de Valores (B3)| O "mercado" organizado onde as pessoas se encontram (digitalmente) para comprar e vender ações |
+|Dividendos | Parte do lucro da empresa que é dividida e depositada na conta dos acionistas |
+|Ticker | O código de letras e números que identifica a ação na bolsa (ex: PETR4 para Petrobras) |
+|Liquidez | A facilidade e rapidez com que você consegue transformar seu investimento de volta em dinheiro na conta |
+|Corretora | A instituição financeira que faz a ponte entre você e a Bolsa de Valores para realizar as compras |
+|Home Broker | A plataforma digital (site ou app) usada para enviar ordens de compra e venda de ações |
+|IPO | Quando uma empresa vende seus "pedacinhos" pela primeira vez na Bolsa para arrecadar dinheiro e crescer|
+|ETF | Um "pacote" de várias ações que segue um índice específico; permite diversificar com pouco dinheiro |
+|Setores Perenes | Áreas essenciais da economia que costumam lucrar mesmo em crises, como energia, bancos e saneamento |
+|Diversificação | Estratégia de "não colocar todos os ovos na mesma cesta", espalhando o dinheiro em diferentes ativos para reduzir riscos |
+|FGC |Fundo que garante a devolução de até R$ 250 mil em certos investimentos de renda fixa se o banco quebrar|
+|Buy and Hold|Estratégia de comprar boas ações e segurá-las por muitos anos, focando no longo prazo e dividendos|
+|Mercado Fracionário | Permite comprar de 1 a 99 ações (usando a letra "F" no código), ideal para quem tem pouco dinheiro |
+
+
+## Para apoiar suas futuras revisões sobre investimentos em ações, com base nos ensinamentos de Luiz Barsi, Primo Pobre, Breno Perrucho e nas análises estruturais dos ativos brasileiros, aqui está um conjunto de prompts reutilizáveis organizados por categoria.
 1. Prompts de Análise de Ativos e Fundamentos
 Estes prompts ajudam a avaliar se uma empresa ou setor se encaixa em uma estratégia conservadora e previdenciária.
 Análise de Perenidade: "Com base nos critérios de setores perenes (energia, saneamento, bancos, seguros e telecomunicações)
